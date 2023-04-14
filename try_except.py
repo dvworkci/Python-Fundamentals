@@ -1,4 +1,4 @@
-
+# try except in python
 try:
     # val = 10/0
     num = int(input("Enter a number: "))
